@@ -97,3 +97,13 @@ if __name__ == '__main__':
     plt.tight_layout()
     plt.savefig('pybayes_fig_mcmc_reg_ex3.png', dpi=300)
     plt.show()
+    
+    
+'''
+以下より改変
+MIT License
+
+Copyright (c) 2018 Teruo Nakatsuma
+
+https://github.com/nakatsuma/python_for_bayes/blob/master/LICENSE　
+'''
